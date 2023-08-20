@@ -8,5 +8,4 @@ Requirements:
 
 # Instructions
 - Create a python venv and install required components
-- Provide the following files to the command line:
-    - 
+- Provide the following files to the command line

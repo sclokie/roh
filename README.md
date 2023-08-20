@@ -4,3 +4,9 @@ Requirements:
 - Linux Ubunutu 22.04 (tested)
 - Python3.6 (tested)
 - see requirements.txt for python library versions
+
+
+# Instructions
+- Create a python venv and install required components
+- Provide the following files to the command line:
+    - 

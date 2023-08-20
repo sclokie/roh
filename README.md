@@ -11,3 +11,4 @@ Requirements:
 - Run the script like so:
   roh-bins-genome.py vcf1 vcf2 vcf3
 - The script will process a maximum of three vcfs.
+- Run time is approxaimatel 2 minutes per 3x VCFs

@@ -8,4 +8,6 @@ Requirements:
 
 # Instructions
 - Create a python venv and install required components
-- Provide the following files to the command line
+- Run the script like so:
+  roh-bins-genome.py vcf1 vcf2 vcf3
+- The script will process a maximum of three vcfs.
